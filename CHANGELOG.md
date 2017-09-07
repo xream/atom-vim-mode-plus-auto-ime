@@ -1,3 +1,7 @@
+## 2.2.1
+
+* README: windows users example. Big thanks to heyeshuang.
+
 ## 2.2.0
 
 * remain the input source when the active editor changes
