@@ -1,7 +1,7 @@
 {
   "name": "vim-mode-plus-auto-ime",
   "main": "./lib/vim-mode-plus-auto-ime",
-  "version": "2.2.4",
+  "version": "2.2.5",
   "description": "automatically change ime when vim mode changes",
   "keywords": [],
   "repository": "https://github.com/xream/atom-vim-mode-plus-auto-ime",
